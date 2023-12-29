@@ -97,4 +97,70 @@
 │   └── 
 └──
 ```
+## 🚀 Getting Started
 
+1. [Fork](https://github.com/midudev/esland-web/fork) or clone this repository.
+
+```bash
+git clone git@github.com:mkcodev/.dotfiles-mk
+```
+
+2. Run Script (start.sh) for download dependencies:
+
+```bash
+# Install Dependencies
+curl https://github/mkcodev/.dotfiles-mk/start.sh | bash
+```
+
+- or you can use [windows]():
+
+```bash
+# Windows Version in construction
+```
+
+3. Place the folders inside the *downloaded* .config into your *local* .config.:
+
+```bash
+# Copy dotfiles in local:
+cp .dotfiles-mk/.config/* ~/.config
+```
+
+4. Open your bspwm session in your PC to see the result 🚀
+- Go to loockScreen sesion, and select BSPWM
+
+## 🧞 Commands
+
+`In construction`
+
+|Launcher| Command          | Action                                        |
+| :-- | :--------------- | :-------------------------------------------- |
+| ⚙️  | j | window Down  |
+| ⚙️  | W | Window Up    |
+| ⚙️  | L | Window Right |
+| ⚙️  | H | Window Left  |
+
+---
+
+### Otros Proyectos
+
+| [Proyect 1](https://creativedesignsguru.com/blue-dark-nextjs-theme/) | [Blue Eclatant Nextjs Theme](https://creativedesignsguru.com/blue-eclatant-nextjs-theme/) |
+| --- | --- |
+| [![Proyect 2](https://creativedesignsguru.com/assets/images/themes/blue-dark-mode-nextjs-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-dark-nextjs-theme/) | [![Blue Eclatant Nextjs Theme premium](https://creativedesignsguru.com/assets/images/themes/eclatant-blue-nextjs-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-eclatant-nextjs-theme/) |
+
+| [Proyect 3](https://creativedesignsguru.com/blue-modern-nextjs-theme/) | [Blue Minimalist Nextjs Theme](https://creativedesignsguru.com/blue-minimalist-nextjs-theme/) |
+| --- | --- |
+| [![Proyect 4](https://creativedesignsguru.com/assets/images/themes/modern-blue-nextjs-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-modern-nextjs-theme/) | [![Blue Minimalist Nextjs Theme premium](https://creativedesignsguru.com/assets/images/themes/minimalist-blue-nextjs-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-minimalist-nextjs-theme/) |
+
+
+
+## 🔑 License
+
+Licensed under the MIT License, Copyright © 2024
+
+See [LICENSE](LICENSE) for more information.
+
+---
+
+Made with ♥ by [mkcodev](https://mkcodev.com) [![linkedin](https://img.shields.io/badge/Follow-%20%40mkcodev-blue?logo=linkedin)](https://www.linkedin.com/in/mkcodev/)
+
+[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)]([https://www.buymeacoffee.com/ixartz](https://www.buymeacoffee.com/mkcodev))
